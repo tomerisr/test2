@@ -1,0 +1,21 @@
+{
+  "name": "testtt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {
+    "js-yaml": "3.13.0",
+    "marked": "0.3.15",
+    "canvas": "1.6.9"
+  },
+  "standard": {
+    "globals": [
+      "describe",
+      "test",
+      "expect",
+      "jest"
+    ]
+  }
+}
