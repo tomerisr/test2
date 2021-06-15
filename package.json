@@ -15,7 +15,7 @@
       "describe",
       "test",
       "expect",
-      "jest"
+      "jest" 
     ]
   }
 }
